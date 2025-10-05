@@ -1,0 +1,470 @@
+Teardrop Report ESP32-USBC.PcbDoc
+On 10/1/2025 at 12:54:27 PM
+
+Pads visited                : 299
+
+Vias visited                : 158
+
+Pad teardrops failed : 0
+
+Pad R9-1(895.192mil,567.05mil) on L1
+Pad R9-2(929.208mil,567.05mil) on L1
+Pad R13-2(894.192mil,618.95mil) on L1
+Pad R13-1(928.208mil,618.95mil) on L1
+Pad R10-1(893.734mil,668.95mil) on L1
+Pad R10-2(927.75mil,668.95mil) on L1
+Pad U2-16(785.413mil,730.63mil) on L1
+Pad C5-1(2658.284mil,854mil) on L1
+Pad U1-62(2670.63mil,775.591mil) on L1
+Pad U1-1(2629.291mil,775.591mil) on L1
+Pad U1-2(2595.826mil,775.591mil) on L1
+Pad U1-58(2670.63mil,667.323mil) on L1
+Pad U1-59(2670.63mil,700.787mil) on L1
+Pad U1-57(2670.63mil,633.858mil) on L1
+Pad U1-60(2670.63mil,734.252mil) on L1
+Pad U1-55(2670.63mil,566.929mil) on L1
+Pad U1-56(2670.63mil,600.394mil) on L1
+Pad U1-54(2670.63mil,533.465mil) on L1
+Pad C14-1(2556.467mil,853.55mil) on L1
+Pad C15-1(2424.133mil,853.55mil) on L1
+Pad U1-63(2119.448mil,775.591mil) on L1
+Pad SW2-3(1556.496mil,838.583mil) on L1
+Pad SW2-4(1243.504mil,838.583mil) on L1
+Pad U1-66(2460mil,564.961mil) on L1
+Pad U1-69(2395.039mil,564.961mil) on L1
+Pad U1-71(2330.078mil,564.961mil) on L1
+Pad C17-1(1666mil,640.716mil) on L1
+Pad U1-52(2670.63mil,466.535mil) on L1
+Pad U1-53(2670.63mil,500mil) on L1
+Pad U1-51(2670.63mil,433.071mil) on L1
+Pad U1-49(2670.63mil,366.142mil) on L1
+Pad U1-50(2670.63mil,399.606mil) on L1
+Pad U1-48(2670.63mil,332.677mil) on L1
+Pad U1-68(2460mil,435.039mil) on L1
+Pad U1-46(2670.63mil,265.748mil) on L1
+Pad U1-47(2670.63mil,299.213mil) on L1
+Pad U1-65(2670.63mil,224.409mil) on L1
+Pad C4-1(2603.716mil,144mil) on L1
+Pad U1-43(2562.362mil,224.409mil) on L1
+Pad U1-42(2528.897mil,224.409mil) on L1
+Pad U1-61(2395.039mil,500mil) on L1
+Pad U1-67(2460mil,500mil) on L1
+Pad U1-72(2330.078mil,500mil) on L1
+Pad U1-70(2395.039mil,435.039mil) on L1
+Pad U1-73(2330.078mil,435.039mil) on L1
+Pad SW1-3(1556.496mil,338.583mil) on L1
+Pad SW1-4(1243.504mil,338.583mil) on L1
+Pad U1-64(2119.448mil,224.409mil) on L1
+Pad D1-1(1730mil,181.299mil) on L1
+Pad C16-1(1656mil,202mil) on L1
+Pad C8-1(935.1mil,806.25mil) on L1
+Pad C2-1(773.683mil,615.02mil) on L1
+Pad U2-3(710mil,845.413mil) on L1
+Pad U2-21(710mil,770mil) on L1
+Pad U2-13(710mil,694.587mil) on L1
+Pad C7-1(667.5mil,593.984mil) on L1
+Pad C3-1(772.683mil,551.01mil) on L1
+Pad C9-1(514.616mil,853.207mil) on L1
+Pad D3-1(347.3mil,833.1mil) on L1
+Pad J3-A1B12(247.637mil,905.905mil) on L1
+Pad R12-1(420mil,810mil) on L1
+Pad R11-1(420.25mil,736.95mil) on L1
+Pad C6-1(514.427mil,669.7mil) on L1
+Pad D4-1(347.321mil,722.059mil) on L1
+Pad C1-1(452.983mil,620.95mil) on L1
+Pad J3-B1A12(247.637mil,653.937mil) on L1
+Pad D5-1(330mil,620mil) on L1
+Pad U3-4(963.032mil,310mil) on L1
+Pad C11-1(635.667mil,366.05mil) on L1
+Pad U3-2(716.968mil,310mil) on L1
+Pad C13-1(647.5mil,257.417mil) on L1
+Pad C12-1(583.7mil,257.417mil) on L1
+Pad C10-1(456.05mil,375.15mil) on L1
+Pad D8-1(331.305mil,375.1mil) on L1
+Pad D6-1(363.75mil,255.291mil) on L1
+Pad J4-A1B12(247.638mil,346.063mil) on L1
+Pad R15-1(429.65mil,236.392mil) on L1
+Pad R14-1(429.65mil,166.308mil) on L1
+Pad D7-1(363.65mil,147.359mil) on L1
+Pad J4-B1A12(247.638mil,94.094mil) on L1
+Pad D5-2(355.591mil,620mil) on L1
+Pad C1-2(418.416mil,620.95mil) on L1
+Pad J3-A4B9(247.637mil,874.409mil) on L1
+Pad J3-B4A9(247.637mil,685.433mil) on L1
+Pad C8-2(900.533mil,806.25mil) on L1
+Pad R5-2(901.584mil,859.95mil) on L1
+Pad R5-1(935.6mil,859.95mil) on L1
+Pad R3-2(1791mil,174mil) on L1
+Pad R4-2(1792mil,828mil) on L1
+Pad C5-2(2623.716mil,854mil) on L1
+Pad C4-2(2638.284mil,144mil) on L1
+Pad R2-1(706.984mil,489.99mil) on L1
+Pad U2-20(785.413mil,809.37mil) on L1
+Pad U2-10(634.587mil,730.63mil) on L1
+Pad R8-1(603.05mil,576.256mil) on L1
+Pad C6-2(548.994mil,669.7mil) on L1
+Pad R14-2(429.65mil,132.292mil) on L1
+Pad D7-2(363.65mil,172.95mil) on L1
+Pad R3-1(1791mil,208.016mil) on L1
+Pad R4-1(1792mil,793.984mil) on L1
+Pad R16-1(1008mil,683.016mil) on L1
+Pad R16-2(1008mil,649mil) on L1
+Pad R17-1(1655mil,306mil) on L1
+Pad R17-2(1655mil,340.016mil) on L1
+Pad R18-2(1009mil,840.016mil) on L1
+Pad R18-1(1009mil,806mil) on L1
+Pad U2-1(749.37mil,845.413mil) on L1
+Pad U2-2(729.685mil,845.413mil) on L1
+Pad U2-4(690.315mil,845.413mil) on L1
+Pad U2-5(670.63mil,845.413mil) on L1
+Pad U2-11(670.63mil,694.587mil) on L1
+Pad U2-12(690.315mil,694.587mil) on L1
+Pad U2-14(729.685mil,694.587mil) on L1
+Pad U2-15(749.37mil,694.587mil) on L1
+Pad U2-6(634.587mil,809.37mil) on L1
+Pad U2-7(634.587mil,789.685mil) on L1
+Pad U2-8(634.587mil,770mil) on L1
+Pad U2-9(634.587mil,750.315mil) on L1
+Pad U2-17(785.413mil,750.315mil) on L1
+Pad U2-18(785.413mil,770mil) on L1
+Pad U2-19(785.413mil,789.685mil) on L1
+Pad D1-2(1730mil,218.701mil) on L1
+Pad D2-2(1730mil,781.299mil) on L1
+Pad Q2-2(1085mil,782.598mil) on L1
+Pad Q1-1(1085mil,699.803mil) on L1
+Pad C16-2(1656mil,236.567mil) on L1
+Pad U1-45(2629.291mil,224.409mil) on L1
+Pad Q1-3(1159.846mil,662.402mil) on L1
+Pad SW1-1(1556.496mil,161.417mil) on L1
+Pad SW1-2(1243.504mil,161.417mil) on L1
+Pad C14-2(2521.9mil,853.55mil) on L1
+Pad U1-3(2562.362mil,775.591mil) on L1
+Pad C15-2(2458.7mil,853.55mil) on L1
+Pad Q1-2(1085mil,625mil) on L1
+Pad Q2-1(1085mil,857.402mil) on L1
+Pad R26-1(1994.05mil,450mil) on L1
+Pad R25-1(1995mil,515mil) on L1
+Pad R25-2(1960.984mil,515mil) on L1
+Pad R23-2(1960.966mil,515mil) on L1
+Pad R23-1(1926.95mil,515mil) on L1
+Pad R24-2(1960mil,450mil) on L1
+Pad R24-1(1925.984mil,450mil) on L1
+Pad R26-2(1960.034mil,450mil) on L1
+Pad R1-1(775mil,490mil) on L1
+Pad R1-2(740.984mil,490mil) on L1
+Pad C2-2(739.116mil,615.02mil) on L1
+Pad R8-2(603.05mil,610.271mil) on L1
+Pad C3-2(738.116mil,551.01mil) on L1
+Pad C7-2(667.5mil,628.551mil) on L1
+Pad Q2-3(1159.846mil,820mil) on L1
+Pad R21-1(1981.834mil,841.2mil) on L1
+Pad R21-2(2015.85mil,841.2mil) on L1
+Pad D6-2(363.75mil,229.7mil) on L1
+Pad J4-A7(247.638mil,210.236mil) on L1
+Pad J4-B7(247.638mil,249.606mil) on L1
+Pad U1-24(2119.448mil,466.535mil) on L1
+Pad J4-B6(247.638mil,190.551mil) on L1
+Pad J4-A6(247.638mil,229.921mil) on L1
+Pad R22-2(2015.85mil,780.5mil) on L1
+Pad R22-1(1981.834mil,780.5mil) on L1
+Pad D2-1(1730mil,818.701mil) on L1
+Pad SW2-2(1243.504mil,661.417mil) on L1
+Pad SW2-1(1556.496mil,661.417mil) on L1
+Pad C17-2(1666mil,675.284mil) on L1
+Pad R15-2(429.65mil,270.408mil) on L1
+Pad J3-B8(247.637mil,848.819mil) on L1
+Pad J3-A5(247.637mil,829.134mil) on L1
+Pad J3-B7(247.637mil,809.449mil) on L1
+Pad J3-A6(247.637mil,789.764mil) on L1
+Pad J3-A7(247.637mil,770.078mil) on L1
+Pad J3-B6(247.637mil,750.393mil) on L1
+Pad J3-A8(247.637mil,730.708mil) on L1
+Pad J3-B5(247.637mil,711.023mil) on L1
+Pad J4-B8(247.638mil,288.976mil) on L1
+Pad J4-A5(247.638mil,269.291mil) on L1
+Pad J4-A8(247.638mil,170.866mil) on L1
+Pad J4-B5(247.638mil,151.181mil) on L1
+Pad J4-B4A9(247.638mil,125.591mil) on L1
+Pad J4-A4B9(247.638mil,314.567mil) on L1
+Pad U1-44(2595.826mil,224.409mil) on L1
+Pad U1-41(2495.433mil,224.409mil) on L1
+Pad U1-40(2461.968mil,224.409mil) on L1
+Pad U1-39(2428.504mil,224.409mil) on L1
+Pad U1-38(2395.039mil,224.409mil) on L1
+Pad U1-37(2361.574mil,224.409mil) on L1
+Pad U1-36(2328.11mil,224.409mil) on L1
+Pad U1-35(2294.645mil,224.409mil) on L1
+Pad U1-34(2261.181mil,224.409mil) on L1
+Pad U1-33(2227.716mil,224.409mil) on L1
+Pad U1-32(2194.252mil,224.409mil) on L1
+Pad U1-31(2160.787mil,224.409mil) on L1
+Pad U1-30(2119.448mil,265.748mil) on L1
+Pad U1-29(2119.448mil,299.213mil) on L1
+Pad U1-28(2119.448mil,332.677mil) on L1
+Pad U1-27(2119.448mil,366.142mil) on L1
+Pad U1-26(2119.448mil,399.606mil) on L1
+Pad U1-25(2119.448mil,433.071mil) on L1
+Pad U1-23(2119.448mil,500mil) on L1
+Pad U1-22(2119.448mil,533.465mil) on L1
+Pad U1-21(2119.448mil,566.929mil) on L1
+Pad U1-20(2119.448mil,600.394mil) on L1
+Pad U1-19(2119.448mil,633.858mil) on L1
+Pad U1-18(2119.448mil,667.323mil) on L1
+Pad U1-17(2119.448mil,700.787mil) on L1
+Pad U1-16(2119.448mil,734.252mil) on L1
+Pad U1-15(2160.787mil,775.591mil) on L1
+Pad U1-14(2194.252mil,775.591mil) on L1
+Pad U1-13(2227.716mil,775.591mil) on L1
+Pad U1-12(2261.181mil,775.591mil) on L1
+Pad U1-11(2294.645mil,775.591mil) on L1
+Pad U1-10(2328.11mil,775.591mil) on L1
+Pad U1-9(2361.574mil,775.591mil) on L1
+Pad U1-8(2395.039mil,775.591mil) on L1
+Pad U1-7(2428.504mil,775.591mil) on L1
+Pad U1-6(2461.968mil,775.591mil) on L1
+Pad U1-5(2495.433mil,775.591mil) on L1
+Pad U1-4(2528.897mil,775.591mil) on L1
+Pad R2-2(741mil,489.99mil) on L1
+Pad R6-2(548.9mil,732.187mil) on L1
+Pad R6-1(514.884mil,732.187mil) on L1
+Pad R7-2(548.558mil,791.197mil) on L1
+Pad R7-1(514.542mil,791.197mil) on L1
+Pad R11-2(420.25mil,702.934mil) on L1
+Pad R12-2(420mil,844.016mil) on L1
+Pad R19-2(2116.992mil,142mil) on L1
+Pad R19-1(2151.008mil,142mil) on L1
+Pad R20-2(2013.992mil,142mil) on L1
+Pad R20-1(2048.008mil,142mil) on L1
+Pad C9-2(549.183mil,853.207mil) on L1
+Pad C10-2(421.483mil,375.15mil) on L1
+Pad C11-2(635.667mil,400.617mil) on L1
+Pad C12-2(583.7mil,222.85mil) on L1
+Pad C13-2(647.5mil,222.85mil) on L1
+Pad U3-1(716.968mil,400.551mil) on L1
+Pad U3-3(716.968mil,219.449mil) on L1
+Pad D3-2(347.3mil,807.509mil) on L1
+Pad D4-2(347.321mil,747.65mil) on L1
+Pad D8-2(356.895mil,375.1mil) on L1
+Pad J1-1(2650mil,950mil) on Multi-Layer
+Pad J2-2(2550mil,50mil) on Multi-Layer
+Pad J1-23(450mil,950mil) on Multi-Layer
+Pad J3-S1(225mil,950mil) on Multi-Layer
+Pad J3-S3(67.519mil,950mil) on Multi-Layer
+Pad J3-S4(67.519mil,609.842mil) on Multi-Layer
+Pad J3-S2(225mil,609.842mil) on Multi-Layer
+Pad J4-S1(225mil,390.157mil) on Multi-Layer
+Pad J4-S3(67.52mil,390.157mil) on Multi-Layer
+Pad J2-24(350mil,50mil) on Multi-Layer
+Pad J4-S4(67.52mil,50mil) on Multi-Layer
+Pad J4-S2(225mil,50mil) on Multi-Layer
+Pad J5-1(360.85mil,545.55mil) on Multi-Layer
+Pad J6-1(1380mil,525mil) on Multi-Layer
+Pad J2-1(2650mil,50mil) on Multi-Layer
+Pad J1-2(2550mil,950mil) on Multi-Layer
+Pad J2-4(2350mil,50mil) on Multi-Layer
+Pad J2-3(2450mil,50mil) on Multi-Layer
+Pad J2-6(2150mil,50mil) on Multi-Layer
+Pad J2-7(2050mil,50mil) on Multi-Layer
+Pad J2-8(1950mil,50mil) on Multi-Layer
+Pad J2-9(1850mil,50mil) on Multi-Layer
+Pad J2-10(1750mil,50mil) on Multi-Layer
+Pad J2-11(1650mil,50mil) on Multi-Layer
+Pad J2-12(1550mil,50mil) on Multi-Layer
+Pad J2-13(1450mil,50mil) on Multi-Layer
+Pad J2-14(1350mil,50mil) on Multi-Layer
+Pad J2-15(1250mil,50mil) on Multi-Layer
+Pad J2-16(1150mil,50mil) on Multi-Layer
+Pad J2-17(1050mil,50mil) on Multi-Layer
+Pad J2-18(950mil,50mil) on Multi-Layer
+Pad J2-19(850mil,50mil) on Multi-Layer
+Pad J2-20(750mil,50mil) on Multi-Layer
+Pad J2-21(650mil,50mil) on Multi-Layer
+Pad J2-22(550mil,50mil) on Multi-Layer
+Pad J2-23(450mil,50mil) on Multi-Layer
+Pad J2-5(2250mil,50mil) on Multi-Layer
+Pad J1-5(2250mil,950mil) on Multi-Layer
+Pad J1-24(350mil,950mil) on Multi-Layer
+Pad J1-22(550mil,950mil) on Multi-Layer
+Pad J1-21(650mil,950mil) on Multi-Layer
+Pad J1-20(750mil,950mil) on Multi-Layer
+Pad J1-19(850mil,950mil) on Multi-Layer
+Pad J1-18(950mil,950mil) on Multi-Layer
+Pad J1-17(1050mil,950mil) on Multi-Layer
+Pad J1-16(1150mil,950mil) on Multi-Layer
+Pad J1-15(1250mil,950mil) on Multi-Layer
+Pad J1-14(1350mil,950mil) on Multi-Layer
+Pad J1-13(1450mil,950mil) on Multi-Layer
+Pad J1-12(1550mil,950mil) on Multi-Layer
+Pad J1-11(1650mil,950mil) on Multi-Layer
+Pad J1-10(1750mil,950mil) on Multi-Layer
+Pad J1-9(1850mil,950mil) on Multi-Layer
+Pad J1-8(1950mil,950mil) on Multi-Layer
+Pad J1-7(2050mil,950mil) on Multi-Layer
+Pad J1-6(2150mil,950mil) on Multi-Layer
+Pad J1-3(2450mil,950mil) on Multi-Layer
+Pad J1-4(2350mil,950mil) on Multi-Layer
+Pad J5-2(360.85mil,495.55mil) on Multi-Layer
+Pad J5-3(360.85mil,445.55mil) on Multi-Layer
+Pad J6-2(1430mil,525mil) on Multi-Layer
+
+Via teardrops failed : 0
+
+Via (336.1mil,404.25mil) from L1 to L4
+Via (286.2mil,924.75mil) from L1 to L4
+Via (283.85mil,627.95mil) from L1 to L4
+Via (495.65mil,621.3mil) from L1 to L4
+Via (969.5mil,584.4mil) from L1 to L4
+Via (963.05mil,559.95mil) from L1 to L4
+Via (958.041mil,788.822mil) from L1 to L4
+Via (2595.4mil,811.75mil) from L1 to L4
+Via (2628.039mil,701.536mil) from L1 to L4
+Via (2628.039mil,735mil) from L1 to L4
+Via (2596.11mil,726.284mil) from L1 to L4
+Via (2628.039mil,567.678mil) from L1 to L4
+Via (2628.039mil,601.142mil) from L1 to L4
+Via (2628.039mil,534.213mil) from L1 to L4
+Via (2628.039mil,668.071mil) from L1 to L4
+Via (2628.039mil,634.607mil) from L1 to L4
+Via (2442.9mil,895.95mil) from L1 to L4
+Via (1479.4mil,868.95mil) from L1 to L4
+Via (1295.05mil,837.75mil) from L1 to L4
+Via (2395.559mil,610.519mil) from L1 to L4
+Via (2505.558mil,564.441mil) from L1 to L4
+Via (2363mil,533mil) from L1 to L4
+Via (1915.266mil,733.65mil) from L1 to L4
+Via (2284mil,566mil) from L1 to L4
+Via (1721.7mil,562.1mil) from L1 to L4
+Via (1667.45mil,607.45mil) from L1 to L4
+Via (2628.039mil,467.284mil) from L1 to L4
+Via (2628.039mil,500.748mil) from L1 to L4
+Via (2505.558mil,434.52mil) from L1 to L4
+Via (2505.558mil,499.48mil) from L1 to L4
+Via (2628.039mil,333.426mil) from L1 to L4
+Via (2628.039mil,366.89mil) from L1 to L4
+Via (2628.039mil,299.961mil) from L1 to L4
+Via (2628.039mil,433.819mil) from L1 to L4
+Via (2628.039mil,400.355mil) from L1 to L4
+Via (2628.039mil,266.496mil) from L1 to L4
+Via (2668.9mil,186.2mil) from L1 to L4
+Via (2563.243mil,281.043mil) from L1 to L4
+Via (2528.996mil,282mil) from L1 to L4
+Via (2428mil,533mil) from L1 to L4
+Via (2363mil,468mil) from L1 to L4
+Via (2428mil,468mil) from L1 to L4
+Via (2394.519mil,389.481mil) from L1 to L4
+Via (2284.52mil,500.52mil) from L1 to L4
+Via (2075mil,450mil) from L1 to L4
+Via (2284.52mil,435.559mil) from L1 to L4
+Via (2075mil,515mil) from L1 to L4
+Via (1718.95mil,500.5mil) from L1 to L4
+Via (1177.05mil,360.8mil) from L1 to L4
+Via (1486.6mil,350.7mil) from L1 to L4
+Via (1305.35mil,337.7mil) from L1 to L4
+Via (2065.55mil,232.75mil) from L1 to L4
+Via (1177.05mil,290mil) from L1 to L4
+Via (1692.7mil,194.45mil) from L1 to L4
+Via (1622.875mil,201.125mil) from L1 to L4
+Via (738.151mil,652.05mil) from L1 to L4
+Via (709.829mil,875.5mil) from L1 to L4
+Via (728.558mil,793.857mil) from L1 to L4
+Via (688.857mil,793.857mil) from L1 to L4
+Via (728.558mil,749.658mil) from L1 to L4
+Via (688.857mil,749.658mil) from L1 to L4
+Via (815.35mil,594.2mil) from L1 to L4
+Via (816.2mil,539.9mil) from L1 to L4
+Via (669.1mil,547.75mil) from L1 to L4
+Via (473.7mil,854.95mil) from L1 to L4
+Via (467.365mil,818.85mil) from L1 to L4
+Via (387.3mil,833.1mil) from L1 to L4
+Via (387.321mil,722.059mil) from L1 to L4
+Via (469.95mil,671.773mil) from L1 to L4
+Via (463.55mil,706.824mil) from L1 to L4
+Via (330mil,590mil) from L1 to L4
+Via (1142.787mil,360.8mil) from L1 to L4
+Via (1108.525mil,360.8mil) from L1 to L4
+Via (1074.263mil,325mil) from L1 to L4
+Via (1074.263mil,360.8mil) from L1 to L4
+Via (1040mil,360.8mil) from L1 to L4
+Via (1040mil,325mil) from L1 to L4
+Via (1142.787mil,325mil) from L1 to L4
+Via (1108.525mil,325mil) from L1 to L4
+Via (1177.05mil,325mil) from L1 to L4
+Via (658.35mil,308.7mil) from L1 to L4
+Via (616.367mil,317.7mil) from L1 to L4
+Via (581.75mil,308.95mil) from L1 to L4
+Via (1040mil,290mil) from L1 to L4
+Via (1074.263mil,290mil) from L1 to L4
+Via (1142.787mil,290mil) from L1 to L4
+Via (1108.525mil,290mil) from L1 to L4
+Via (876.55mil,223.6mil) from L1 to L4
+Via (804.05mil,222.6mil) from L1 to L4
+Via (470.55mil,251.4mil) from L1 to L4
+Via (471.25mil,145.2mil) from L1 to L4
+Via (458.9mil,324mil) from L1 to L4
+Via (295mil,405mil) from L1 to L4
+Via (316.15mil,254.05mil) from L1 to L4
+Via (318.05mil,151mil) from L1 to L4
+Via (305mil,95mil) from L1 to L4
+Via (846.966mil,717.584mil) from L1 to L4
+Via (874.3mil,853.6mil) from L1 to L4
+Via (969.416mil,882.666mil) from L1 to L4
+Via (1803.4mil,145.75mil) from L1 to L4
+Via (551.2mil,591mil) from L1 to L4
+Via (435.6mil,778.85mil) from L1 to L4
+Via (402.05mil,780.05mil) from L1 to L4
+Via (483.758mil,732.187mil) from L1 to L4
+Via (483.05mil,789.65mil) from L1 to L4
+Via (471.2mil,215.8mil) from L1 to L4
+Via (471.2mil,183.8mil) from L1 to L4
+Via (1697.8mil,517.65mil) from L1 to L4
+Via (1697.8mil,549.65mil) from L1 to L4
+Via (825.35mil,199.45mil) from L1 to L4
+Via (857.35mil,199.45mil) from L1 to L4
+Via (1278.7mil,582.15mil) from L1 to L4
+Via (1641.683mil,376.9mil) from L1 to L4
+Via (2523.8mil,893.45mil) from L1 to L4
+Via (2480.1mil,891mil) from L1 to L4
+Via (2040mil,450mil) from L1 to L4
+Via (2040mil,515mil) from L1 to L4
+Via (1824.859mil,418.409mil) from L1 to L4
+Via (550.2mil,189.65mil) from L1 to L4
+Via (614.9mil,191.2mil) from L1 to L4
+Via (583.7mil,190.95mil) from L1 to L4
+Via (1496.8mil,610mil) from L1 to L4
+Via (1743.3mil,395.8mil) from L1 to L4
+Via (1759.35mil,426.7mil) from L1 to L4
+Via (2462.449mil,673.481mil) from L1 to L4
+Via (813.808mil,842.408mil) from L1 to L4
+Via (1456.75mil,611.85mil) from L1 to L4
+Via (1963.05mil,304.05mil) from L1 to L4
+Via (1926.3mil,335.35mil) from L1 to L4
+Via (1852.3mil,391.7mil) from L1 to L4
+Via (1702.55mil,637.1mil) from L1 to L4
+Via (1755mil,629.2mil) from L1 to L4
+Via (1794.55mil,629.2mil) from L1 to L4
+Via (1848.6mil,669.65mil) from L1 to L4
+Via (1848.25mil,712.6mil) from L1 to L4
+Via (1851.1mil,749.25mil) from L1 to L4
+Via (1844.6mil,618.25mil) from L1 to L4
+Via (2160.85mil,722.95mil) from L1 to L4
+Via (2228mil,725.6mil) from L1 to L4
+Via (2261.929mil,282mil) from L1 to L4
+Via (2195mil,292mil) from L1 to L4
+Via (2462.716mil,282mil) from L1 to L4
+Via (2328.858mil,282mil) from L1 to L4
+Via (2395.787mil,282mil) from L1 to L4
+Via (2161mil,330mil) from L1 to L4
+Via (2294.878mil,330.019mil) from L1 to L4
+Via (2361.807mil,330.019mil) from L1 to L4
+Via (2428.736mil,330.019mil) from L1 to L4
+Via (2495.665mil,330.019mil) from L1 to L4
+Via (2227.949mil,330.019mil) from L1 to L4
+Via (2262.142mil,673mil) from L1 to L4
+Via (2195.213mil,673mil) from L1 to L4
+Via (2329.071mil,673mil) from L1 to L4
+Via (2396mil,673mil) from L1 to L4
+Via (2429mil,726mil) from L1 to L4
+Via (2496mil,726mil) from L1 to L4
+Via (2293mil,726mil) from L1 to L4
+Via (2361mil,726mil) from L1 to L4
+
