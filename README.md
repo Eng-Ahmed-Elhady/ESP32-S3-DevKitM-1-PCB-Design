@@ -42,7 +42,8 @@ This project was part of an **8-hour practical course by Robert Feranec**, throu
 
 | Schematic Overview | PCB Layout | Assembled Board |
 |--------------------|-------------|------------------|
-| !1.jpg | ![Layout](images/layout.png) | ![Assembled Board](images/assembled.png) |
+|ESP32-S3-DevKitM-1-PCB-Design
+/1.jpg | ![Layout](images/layout.png) | ![Assembled Board](images/assembled.png) |
 
 > 📝 *Replace the image paths above with your actual uploaded image filenames.*
 
