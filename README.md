@@ -38,14 +38,9 @@ This project was part of an **8-hour practical course by Robert Feranec**, throu
 
 ---
 
-## 📸 Gallery
 
-| Schematic Overview | PCB Layout | Assembled Board |
-|--------------------|-------------|------------------|
-|ESP32-S3-DevKitM-1-PCB-Design
-/1.jpg | ![Layout](images/layout.png) | ![Assembled Board](images/assembled.png) |
 
-> 📝 *Replace the image paths above with your actual uploaded image filenames.*
+
 
 ---
 
@@ -67,16 +62,7 @@ Watching a design come to life from schematic to a functional PCB is an amazing 
 
 ---
 
-## 🧾 License
 
-This project is shared for **educational and portfolio purposes**.  
-Please give proper credit if referencing or reusing parts of the design.
-
----
-
-### 📬 Contact
-
-For collaboration or inquiries, feel free to reach out via [LinkedIn](https://linkedin.com) or email.
 
 ---
 
